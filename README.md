@@ -4,7 +4,7 @@
 
 
 # Disclaimer
-This lab is meant to be used with the IBM Containers Service Course. I wrote this with other IBMers while still employed with IBM, and I believe they have made a much better course from this work, which can be found [here.](https://github.com/IBM/container-service-getting-started-wt) 
+This lab is meant to be used with the IBM Containers Service Course. I wrote this with other IBMers while still employed with IBM, and I  they have made a much better course from this work, which can be found [here.](https://github.com/IBM/container-service-getting-started-wt) Seriously. I've gone through it, its great. Click that link.
 
 
 All code at this location is provided as-is, and I will not be updating it further. Please use the wonderful link above and go learn   IBM Containers with the IBM Cloud!
