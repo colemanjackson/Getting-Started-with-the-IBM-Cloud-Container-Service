@@ -3,8 +3,8 @@
 # Developer Works Lab: IBM Bluemix Containers Service and Kubernetes
 
 
-
-This lab is meant to be used with the IBM DeveloperWorks Course on the IBM Containers Service and Kubernetes. I wrote this while still employed with IBM, and I believe they have made a much better course from this work, which can be found [here](https://github.com/IBM/container-service-getting-started-wt)
+# Disclaimer
+This lab is meant to be used with the IBM Containers Service Course. I wrote this with other IBMers while still employed with IBM, and I believe they have made a much better course from this work, which can be found [here](https://github.com/IBM/container-service-getting-started-wt) All code is provided as-is, and I will not be updating it further. Please use the wonderful link above and go learn yourself some IBM Containers with the IBM Cloud!
 
 
 
