@@ -4,7 +4,7 @@
 
 
 
-This lab is meant to be used with the IBM DeveloperWorks Course on the IBM Containers Service and Kubernetes. Watch the videos for each Lab stage prior to starting the Lab work.
+This lab is meant to be used with the IBM DeveloperWorks Course on the IBM Containers Service and Kubernetes. I wrote this while still employed with IBM, and I believe they have made a much better course from this work, which can be found [here](https://github.com/IBM/container-service-getting-started-wt)
 
 
 
